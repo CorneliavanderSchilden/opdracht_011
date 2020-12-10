@@ -1,0 +1,39 @@
+.link1:hover {
+  color: lightblue;
+  font-style: bold;
+}
+.link2:active {
+color: red;
+font-style: italic;
+}
+.link3:visited {
+  color: yellow;
+}
+#fname:focus{
+color: green;
+font-size: 20px;
+}
+li {
+  display:inline;
+}
+.html {
+  margin-left:-40px;
+}
+.html:hover {
+  margin-left:-40px;
+}
+nav {
+  background-color: orange;
+  padding: 10px;
+}
+.currentPage {
+  background-color: lightgrey;
+  padding: 5px
+}
+li:hover {
+  background-color: lightblue;
+  padding: 8px;
+}
+#search:focus {
+  border: 10px aquamarine;
+}
